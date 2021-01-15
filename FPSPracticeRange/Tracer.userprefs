@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Soldier 76\SoldierMovement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Soldier 76\SoldierMovement.cs" Line="27" Column="17" />
+      <File FileName="Assets\Scripts\Tracer\PlayerMovement.cs" Line="47" Column="31" />
+      <File FileName="Assets\Scripts\Tracer\Bullet.cs" Line="5" Column="1" />
+      <File FileName="Assets\Scripts\Soldier 76\SoldierBullet.cs" Line="6" Column="32" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="18" Column="26" />
+      <File FileName="Assets\Scripts\Soldier 76\BioticField.cs" Line="6" Column="20" />
+      <File FileName="Assets\Scripts\Crosshair.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
